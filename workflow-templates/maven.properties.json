@@ -1,0 +1,11 @@
+{
+    "name": "VPRO Maven  Workflow",
+    "description": "VPRO Maven CI workflow template.",
+    "iconName": "maven",
+    "categories": [
+        "java"
+    ],
+    "filePatterns": [
+        "pom\.xml"
+    ]
+}
