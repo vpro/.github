@@ -1,3 +1,7 @@
 # .github
 
 Work flow templates
+
+See https://docs.github.com/en/actions/learn-github-actions/sharing-workflows-with-your-organization
+
+I don't see it working.
